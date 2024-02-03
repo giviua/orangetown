@@ -29,11 +29,6 @@ layout: default
 *   Ларек “Вкусная Курочка”
 *   Ларек “СтройЖоп”
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
 ### Политика Города
 
 ```
