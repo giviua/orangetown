@@ -14,28 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Политика Города
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> Оранжтаун является строительным кланом и городом. Это означает то что мы имеем город в котором могут проживать как и обычные граждане, так и строители клана. Строителям разрешается строить здания как и вне, так и на территории города. У нас на наших территориях запрещено воровать, устраивать войны и уничтожать что либо (даже кустик). Кто нарушит это правило — получит бан.
 
 #### Header 4
 
