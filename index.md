@@ -2,22 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Конституция Города](./another-page.html).
 
-[Link to another page](./another-page.html).
+# О нашем Городе
 
-There should be whitespace between paragraphs.
+Маленький и уютный город в Олдкрафт далеко от спавна.
+Тишина и покой!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## История Города
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Политика Города
-
-> Оранжтаун является строительным кланом и городом. Это означает то что мы имеем город в котором могут проживать как и обычные граждане, так и строители клана. Строителям разрешается строить здания как и вне, так и на территории города. У нас на наших территориях запрещено воровать, устраивать войны и уничтожать что либо (даже кустик). Кто нарушит это правило — получит бан.
-
+> Вначале город планировался на воде но потом был выбран мини
+остров далеко от других городов. Официальная дата основания
+05.01.2024 в 18:30. Город работает на сервере ОлдКрафт который
+принадлежит VanillaPlace. Раньше на месте города были горы но
+попросивши других игроков почистить территорию кто за
+бесплатно, а кто за деньги, территория города стала чистой. Об
+этих героях так сказать на странице сайта “Доска Почета”. Было
+очень трудно чистить так как очень часто падал дождь и особенно
+было сложно ночью когда факелов не хватало. Первым был
+построен дом основателя города, а затем и другие здания
 #### Здания Города
 
 *   Дом Обладателя Города
@@ -30,28 +33,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Small image
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Оранжтаун является строительным кланом и городом. Это означает то что мы имеем город в котором могут проживать как и обычные граждане, так и строители клана. Строителям разрешается строить здания как и вне, так и на территории города. У нас на наших территориях запрещено воровать, устраивать войны и уничтожать что либо (даже кустик). Кто нарушит это правило — получит бан.
 ```
