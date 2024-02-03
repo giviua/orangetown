@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Конституция Города](./another-page.html).
+[Конституция Города](/another-page.html)
 
 # О нашем Городе
 
